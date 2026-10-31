@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+logs/
+runs/
+bracs_eval/
+representation_eval/
+projects/generated_kd_manifests/
+NativeResKD/projects/generated_kd_manifests/
